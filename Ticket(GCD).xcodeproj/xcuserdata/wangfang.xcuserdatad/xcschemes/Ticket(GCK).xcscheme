@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "02ED56791E67FD8300D7CAF8"
-               BuildableName = "Ticket(GCK).app"
-               BlueprintName = "Ticket(GCK)"
-               ReferencedContainer = "container:Ticket(GCK).xcodeproj">
+               BuildableName = "Ticket(GCD).app"
+               BlueprintName = "Ticket(GCD)"
+               ReferencedContainer = "container:Ticket(GCD).xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "02ED56921E67FD8300D7CAF8"
-               BuildableName = "Ticket(GCK)Tests.xctest"
-               BlueprintName = "Ticket(GCK)Tests"
-               ReferencedContainer = "container:Ticket(GCK).xcodeproj">
+               BuildableName = "Ticket(GCD)Tests.xctest"
+               BlueprintName = "Ticket(GCD)Tests"
+               ReferencedContainer = "container:Ticket(GCD).xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "02ED569D1E67FD8300D7CAF8"
-               BuildableName = "Ticket(GCK)UITests.xctest"
-               BlueprintName = "Ticket(GCK)UITests"
-               ReferencedContainer = "container:Ticket(GCK).xcodeproj">
+               BuildableName = "Ticket(GCD)UITests.xctest"
+               BlueprintName = "Ticket(GCD)UITests"
+               ReferencedContainer = "container:Ticket(GCD).xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "02ED56791E67FD8300D7CAF8"
-            BuildableName = "Ticket(GCK).app"
-            BlueprintName = "Ticket(GCK)"
-            ReferencedContainer = "container:Ticket(GCK).xcodeproj">
+            BuildableName = "Ticket(GCD).app"
+            BlueprintName = "Ticket(GCD)"
+            ReferencedContainer = "container:Ticket(GCD).xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "02ED56791E67FD8300D7CAF8"
-            BuildableName = "Ticket(GCK).app"
-            BlueprintName = "Ticket(GCK)"
-            ReferencedContainer = "container:Ticket(GCK).xcodeproj">
+            BuildableName = "Ticket(GCD).app"
+            BlueprintName = "Ticket(GCD)"
+            ReferencedContainer = "container:Ticket(GCD).xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +95,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "02ED56791E67FD8300D7CAF8"
-            BuildableName = "Ticket(GCK).app"
-            BlueprintName = "Ticket(GCK)"
-            ReferencedContainer = "container:Ticket(GCK).xcodeproj">
+            BuildableName = "Ticket(GCD).app"
+            BlueprintName = "Ticket(GCD)"
+            ReferencedContainer = "container:Ticket(GCD).xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
